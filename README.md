@@ -1,1 +1,1 @@
-# scalabasics
+# scala-basics
